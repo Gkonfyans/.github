@@ -2,11 +2,8 @@
   <img alt="G-Konfyans logo" src="assets/gkonfyans-logo.png" width="160">
 </p>
 
-<h1 align="center">G-Konfyans</h1>
+<h1 align="center">G-Konfyans<br><sub>Serye Nan Tout Bagay</sub></h1>
 
-<p align="center"><b>Serye Nan Tout Bagay</b></p>
-
-<p align="center">
-We are a mutual group of Haitians, at home and abroad, who trust each other with money.<br>
-We save together, invest together, and share what we earn.
+<p align="justify">
+G-Konfyans is a mutual group of Haitians, at home and abroad, who trust each other with money. We save together, invest together, and share what we earn.
 </p>
