@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/gkonfyans-icon-dark.svg">
-    <img alt="G-Konfyans logo" src="assets/gkonfyans-icon-light.svg" width="140">
-  </picture>
+  <img alt="G-Konfyans logo" src="assets/gkonfyans-logo.png" width="160">
 </p>
 
 <h1 align="center">G-Konfyans</h1>
